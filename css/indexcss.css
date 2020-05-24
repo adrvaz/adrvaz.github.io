@@ -1,0 +1,46 @@
+/* Este es el css del index, el resto esta en el common */
+
+a{
+    text-align: center;
+}
+a { color: purple; }
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+section{
+    margin: 5%;
+}
+footer{
+    margin: 5%;
+}
+article{
+    margin: 5%;
+}
+table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+   width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-spacing: 0;
+}
+.imagen{
+    width:auto;
+    justify-content: center;
+    padding: 10px;
+}
+
+.find{
+    background-color: purple;
+    margin: 5%;
+}
+.listilla{
+    list-style: none;
+}
